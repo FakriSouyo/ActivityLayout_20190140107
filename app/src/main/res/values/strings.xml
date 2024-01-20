@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PAM1</string>
+    <string name="btn1">BUY NOW</string>
+    <string name="txt1">Honda</string>
+    <string name="txt2">Information</string>
+    <string name="txt3">Fakhri</string>
+    <string name="txt4">082225828290</string>
+    <string name="txt5">Test</string>
 </resources>
